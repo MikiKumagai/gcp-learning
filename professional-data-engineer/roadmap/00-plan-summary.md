@@ -4,7 +4,6 @@
 
 * 試験時間：2時間
 * 出題形式：選択式・複数選択式
-* 公式試験ガイド：[Professional Data Engineer](https://cloud.google.com/learn/certification/guides/data-engineer?hl=ja)
 
 ## 2. 学習ロードマップ
 
